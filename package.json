@@ -1,0 +1,23 @@
+{
+  "name": "guessinggame",
+  "version": "1.0.0",
+  "description": "Guessing game with backend for high scores",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vannsar/nodeintro.git"
+  },
+  "author": "Vannarith Sar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vannsar/nodeintro/issues"
+  },
+  "homepage": "https://github.com/vannsar/nodeintro#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
